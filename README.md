@@ -195,4 +195,4 @@
 
              const date = new Date();   alert(date.setDate(15));
 
- ![](./img/last.PNG)
+   ![](./img/last.PNG)
