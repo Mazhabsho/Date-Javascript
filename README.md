@@ -32,7 +32,7 @@
 
       Example: let date = new Date();  alert(date);
 
-      ![](./img/1.PNG)
+     ![](./img/1.PNG)
       
       
 #### new Date(year, month, ...)
@@ -61,7 +61,7 @@
          
          let date = new Date(2023,15,24,10,33,30);   alert(date);
 
-         ![](./img/2.PNG)
+     ![](./img/2.PNG)
 
 #### new Date(milliseconds)
 
@@ -75,7 +75,7 @@
          
          let date = new Date().getTime();  alert(date);
 
-         ![](./img/3.PNG)
+     ![](./img/3.PNG)
 
 
 #### new Date(date string)
@@ -104,7 +104,7 @@
          
          Example:let date = new Date('2023-01');  alert(date)
 
-         ![](./img/5.PNG)
+     ![](./img/5.PNG)
 
      Long Dates
 
@@ -116,7 +116,7 @@
          
          let date = new Date('Jan,06, 2023');  alert(date);
 
-         ![](./img/6.PNG)
+     ![](./img/6.PNG)
     
 
      Parsing Dates
@@ -129,7 +129,7 @@
          
          example: let date = Date.parse('sep,11,1999');  alert(date);
 
-         ![](./img/7.PNG)
+     ![](./img/7.PNG)
 
 ##### Date Get Methods
 
@@ -165,7 +165,7 @@
          
          let year = date.getFullYear();  alert(year);
 
-         ![](./img/8.PNG)
+     ![](./img/8.PNG)
 
 ##### Set Date Methods
  
@@ -195,4 +195,4 @@
 
              const date = new Date();   alert(date.setDate(15));
 
-             ![](./img/last.PNG)
+     ![](./img/last.PNG)
